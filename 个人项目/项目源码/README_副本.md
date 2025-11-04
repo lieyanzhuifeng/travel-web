@@ -1,0 +1,1 @@
+# 后端定位到backend文件夹后使用 python  app.py运行，前端直接使用run npm serve 运行，点开链接即可看到网页。
